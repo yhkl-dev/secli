@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-const FILE_NAME = "tree.gob"
+const FILE_NAME = "/tmp/tree.gob"
 
 type TreeNode struct {
     Key   string
